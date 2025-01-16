@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f200ff;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.mae {
+    margin: 10px;
+    width: 100%;
+    height: 900px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocos {
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#postit1{
+    background-image: url(../../DESIGN/POST\ ITS/post1.png);
+}
+
+#postit2{
+    background-image: url(../../DESIGN/POST\ ITS/post2.png);
+}
+
+#postit3{
+    background-image: url(../../DESIGN/POST\ ITS/post3.png);
+}
