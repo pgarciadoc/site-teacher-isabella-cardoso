@@ -12,9 +12,17 @@ O estilo de design denominado flat foi o escolhido para dar vida ao projeto.
 
 ## Etapas do planejamento do projeto
 
-- 1 Coleta das informações da cliente;
-- 2 Desenvolvimento do layout (a famosa "parte visual") 
+- 1º Coleta das informações da cliente;
+- 2º Definição do cronograma de execução do projeto com prazos realistas;
+- 3º Desenvolvimento do layout (a famosa "parte visual"), levando em conta todas as especificações da cliente;
+- 4º Passar tudo para o código, fazendo muitos, muitos... e muitos testes;
+- 5º Enviar a versão 1 para a cliente aprovar;
+- 6º Fazer os ajustes solicitados pela cliente;
+- 7º Aprovar com a cliente a versão final. 
 
 ## 📖 Documentação 📝
-- [Documentação Git](link)
+
 - [Documentação Github](link)
+
+# Projeto desenvolvido por:
+- [Pedro Garcia](https://github.com/pgarciadoc)
