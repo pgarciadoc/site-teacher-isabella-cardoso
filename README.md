@@ -2,7 +2,7 @@
 
 Sejam bem-vindos ao site da Teacher Isabella Cardoso!
 
-Esse foi o meu primeiro projeto dentro da área de desenvolvimento web (Frfont-End).
+Esse foi o meu primeiro projeto dentro da área de desenvolvimento web (Front-End).
 
 O site é de página única, pois foi pensado para ser leve e direto ao ponto.
 
