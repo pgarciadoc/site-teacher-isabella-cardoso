@@ -8,7 +8,7 @@ a {
     text-decoration: none;
 }
 
-/* CORRECAO: suavizando o scroll da ancora (tag <a>) */
+
 html {
     scroll-behavior: smooth;
 }
