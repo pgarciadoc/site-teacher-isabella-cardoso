@@ -10,6 +10,8 @@ O estilo de design denominado flat foi o escolhido para dar vida ao projeto.
 
 ## 🤖 Tecnologias usadas 💡
 
+| HTML  | CSS  | JAVASCRIPT | PHOTOSHOP | FIGMA  |
+
 ## Etapas do planejamento do projeto
 
 - 1º Coleta das informações da cliente;
