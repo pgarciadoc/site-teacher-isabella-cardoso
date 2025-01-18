@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/home.css">
     <script defer src="assets/js/script.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -120,38 +121,41 @@
 
         </section>
 
-
-        <!--section perguntas-->
-
+        <!-- CORRECAO: ajustar sempre os itens dentro de uma div e forçar a div a ser flex com alinhamento, para nada sair do lugar -->
         <section id="ebook">
+            <div class="ebook">
 
-            <h2>Destrave Seu Inglês Agora</h2>
+                <h2>Destrave Seu Inglês Agora</h2>
 
-            <img src="assets/img/capa.png" alt="Capa do e-book">
+                <div class="foto_ebook">
+                    <img src="./assets/img/capa.png" alt="Capa do e-book">
+                </div>
 
-            <p> 
-                No meu eBook você encontrará dicas para aprimorar os seus estudos no idioma. Em 6 capítulos você verá sugestões de como destravar o seu Inglês e alcançar a tão esperada fluência.
-                Por meio deste eBook, você poderá desbloquear seu potencial na língua inglesa por meio de dicas eficazes que vão transformar sua rotina de estudos.
-            </p>
-            
-            <br>
-                
-            <p>
+                <div class="descricao_ebook">
+                    <p> 
+                        No meu eBook você encontrará dicas para aprimorar os seus estudos no idioma. Em 6 capítulos você verá sugestões de como destravar o seu Inglês e alcançar a tão esperada fluência.
+                        Por meio deste eBook, você poderá desbloquear seu potencial na língua inglesa por meio de dicas eficazes que vão transformar sua rotina de estudos.
+                    </p>
+                    
+                    <br>
+    
+                    <p>
+                        Você poderá aplicar tudo imediatamente, sem enrolação.
+                        Com mais de 6 anos de experiência ensinando inglês de forma particular, pelo Estado de São Paulo e por meio de escolas bilingues, refinei estratégias que realmente funcionam para o aprendizado de inglês
+                        pelo aluno brasileiro. Pronto para acelerar seu aprendizado em inglês? Garanta seu eBook clicando abaixo.
+                    </p>
 
-                Você poderá aplicar tudo imediatamente, sem enrolação.
-                Com mais de 6 anos de experiência ensinando inglês de forma particular, pelo Estado de São Paulo e por meio de escolas bilingues, refinei estratégias que realmente funcionam para o aprendizado de inglês
-                pelo aluno brasileiro. Pronto para acelerar seu aprendizado em inglês? Garanta seu eBook clicando abaixo.
-            </p>
-
-            <h3 class="todas_idades">Indicado para todas as idades</h3>
-                
-            
-            <a href="https://pay.hotmart.com/D95922123X?checkoutMode=10&bid=1729165297514" target="_blank"><button class="btn_ebook">Adquira Agora</button></a>
+                    <h3 class="todas_idades">Indicado para todas as idades</h3>
+                    
+                    <a href="https://pay.hotmart.com/D95922123X?checkoutMode=10&bid=1729165297514" target="_blank">
+                        <button class="btn_ebook">Adquira Agora</button>
+                    </a>
+                </div>
+            </div>
 
         </section>
 
-
-    <section id="contato">
+        <section id="contato">
 
             <div class="entre_contato">
                 <h3>Entre em contato comigo</h3>
@@ -172,11 +176,8 @@
                 </a>
 
             </div>
-        </div>
 
-        
-    </section>
-
+        </section>
 
     </main>
 
@@ -187,6 +188,6 @@
 
     </footer>
     
-    <script src="assets/js/script.js"></script>
+    <script src="/assets/js/script.js"></script>
 </body>
 </html>
