@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-/* CORRECAO: ajustando para quando passar o mouse em cima do button trocar para a maozinha do mouse, para o usuario entender que é um botao e nao uma figura da tela */
+
 button:hover {
     cursor: pointer;
 }
@@ -138,7 +138,7 @@ button:hover {
     
 }
 
-/* CORRECAO: ajustar sempre os itens dentro de uma div e forçar a div a ser flex com alinhamento, para nada sair do lugar */
+
 .ebook{
     display: flex;
     flex-direction: column;
@@ -164,12 +164,12 @@ button:hover {
     justify-content: center;
 }
 
-/* CORRECAO: adicionado uma classe para a imagem do ebook, pois era ela que estava quebrando */
+
 .foto_ebook {
     align-content: center;
 }
 
-/* CORRECAO: forcar a imagem a ocupar só 100% da div, sem isso ela tava saindo fora */
+
 .foto_ebook img {
     width: 100%;
 }
@@ -264,7 +264,6 @@ footer {
     padding: 1%;
 }
 
-/* CORRECAO: tinha 3 vezes o mesmo @media do mesmo tamanho, um só pra #perguntas e outro só pro #banner e outro pras demais coisas */
 @media (max-width: 1000px) { 
     #perguntas{
         
