@@ -20,9 +20,5 @@ O estilo de design denominado flat foi o escolhido para dar vida ao projeto.
 - 6º Fazer os ajustes solicitados pela cliente;
 - 7º Aprovar com a cliente a versão final. 
 
-## 📖 Documentação 📝
-
-- [Documentação Github](link)
-
 # Projeto desenvolvido por:
 - [Pedro Garcia](https://github.com/pgarciadoc)
